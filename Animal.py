@@ -20,5 +20,7 @@ class Animal:
         print("Animal is alert")
     def play(self):
         print("Animal is playing")
+    def awake(self):
+        print("animal is awake")
     
 
